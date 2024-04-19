@@ -1,10 +1,10 @@
 {
     "run_name": "base-run",
-    "dataset_name": "GENIA",
+    "dataset_name": "ACE2005",
     "model_name_or_path": "bert-base-uncased",
-    "train_file": "data/train.json",
+    "train_file": "data/dev.json",
     "validation_file": "data/dev.json",
-    "test_file": "data/test.json",
+    "test_file": "data/dev.json",
     "entity_type_file": "entity_types.json",
     "dataset_entity_types": ["organization", "substance", "event", "plant", "person", "place", "object", "time", "abstract", "animal"],
     "report_to": "none",
