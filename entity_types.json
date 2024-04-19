@@ -1,10 +1,7 @@
-{"dataset": "ACE2005", "name": "organization", "description": "NA", "description_source": "GUM"}
-{"dataset": "ACE2005", "name": "substance", "description": "NA", "description_source": "GUM"}
-{"dataset": "ACE2005", "name": "event", "description": "NA", "description_source": "GUM"}
-{"dataset": "ACE2005", "name": "plant", "description": "NA", "description_source": "GUM"}
-{"dataset": "ACE2005", "name": "person", "description": "NA", "description_source": "GUM"}
-{"dataset": "ACE2005", "name": "place", "description": "NA", "description_source": "GUM"}
-{"dataset": "ACE2005", "name": "object", "description": "NA", "description_source": "GUM"}
-{"dataset": "ACE2005", "name": "time", "description": "NA", "description_source": "GUM"}
-{"dataset": "ACE2005", "name": "abstract", "description": "NA", "description_source": "GUM"}
-{"dataset": "ACE2005", "name": "animal", "description": "NA", "description_source": "GUM"}
+{"dataset": "GUM", "name": "object", "description": "NA", "description_source": "GUM"}
+{"dataset": "GUM", "name": "event", "description": "NA", "description_source": "GUM"}
+{"dataset": "GUM", "name": "time", "description": "NA", "description_source": "GUM"}
+{"dataset": "GUM", "name": "abstract", "description": "NA", "description_source": "GUM"}
+{"dataset": "GUM", "name": "organization", "description": "NA", "description_source": "GUM"}
+{"dataset": "GUM", "name": "person", "description": "NA", "description_source": "GUM"}
+{"dataset": "GUM", "name": "place", "description": "NA", "description_source": "GUM"}

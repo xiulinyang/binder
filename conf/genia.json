@@ -1,6 +1,6 @@
 {
     "run_name": "base-run",
-    "dataset_name": "ACE2005",
+    "dataset_name": "GUM",
     "model_name_or_path": "bert-base-uncased",
     "train_file": "data/dev.json",
     "validation_file": "data/dev.json",
